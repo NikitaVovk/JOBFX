@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JOBFX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JOBFX_jar</output-path>
+    <root id="archive" name="JOBFX.jar">
+      <element id="module-output" name="JOBFX" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/xmlbeans-3.1.0/lib/xmlbeans-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jfoenix-8.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poi-4.1.0/poi-ooxml-schemas-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/dom4j-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-compress-1.18/commons-compress-1.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poi-4.1.0/poi-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poi-4.1.0/poi-ooxml-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../poi-4.1.0/ooxml-lib/xmlbeans-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/controlsfx-8.40.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../commons-collections4-4.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
